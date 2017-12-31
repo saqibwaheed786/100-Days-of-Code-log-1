@@ -95,6 +95,10 @@ nav li.active {
     box-shadow: inset 0px 1px 1px rgba(255,255,255,0.4), 0px 1px 1px rgba(0,0,0,0.1);
 }
 
+nav ul a:hover {
+    color: #3c3434;
+}
+
 #banner .button {
     border: none;
 }

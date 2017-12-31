@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD022 MD032 -->
-# [Shovan Chatterjee](twitter.com/shovan_ch)
+# [Shovan Chatterjee](https://twitter.com/shovan_ch)
 
 ## 100 Days Of Code - Round 2 Log
 

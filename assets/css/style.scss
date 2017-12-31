@@ -1,0 +1,119 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    font: 14px/25px 'Lato', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-attachment: fixed;
+}
+
+nav {
+    overflow-y: scroll;
+    padding-right: 20px;
+    margin-left: -574px;
+    top: 190px;
+    max-height: 70vh;
+}
+
+nav li.active a {
+    font-weight: bold;
+}
+a:focus { outline: none; }
+
+section {
+    font-size: 16px;
+    line-height: 25px;
+}
+section > p {
+    margin: 10px;
+}
+hr { margin: 20px 0; }
+
+h1, h2, h3 {
+    line-height: 1.0;
+}
+h1 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size:1.5em;
+}
+h3 {
+    font-size:1.2em;
+}
+
+footer {
+    position: static;
+}
+
+
+body {
+
+}
+
+header h1 {
+    font: 40px/48px 'Abril Fatface', serif;
+}
+
+section {
+    font-size: 16px;
+    line-height: 25px;
+}
+
+section h2 {
+    margin-bottom: 15px;
+}
+
+section h3 {
+    margin-bottom: 16px;
+}
+
+header {
+    background: #222831;
+}
+
+header h1,
+header p {
+    color: #EEEEEE;
+    text-shadow: none;
+}
+header p {
+    margin-top: 5px;
+}
+
+nav ul a {
+    color: #222831;
+}
+
+nav li.active {
+    background-color: #46CDCF;
+    border-top: 1px solid #3D84A8;
+    border-bottom: 1px solid #3D84A8;
+    color: #48466D;
+    box-shadow: inset 0px 1px 1px rgba(255,255,255,0.4), 0px 1px 1px rgba(0,0,0,0.1);
+}
+
+#banner .button {
+    border: none;
+}
+
+#banner .fork {
+    background-color: #eee;
+    margin-top: 7px;
+}
+
+#banner {
+    border: none;
+    background: #00ADB5;
+}
+
+pre {
+    line-height: 1.4em;
+}
+
+code {
+    font-family: consolas, monospace;
+    font-size: 0.9em;
+}

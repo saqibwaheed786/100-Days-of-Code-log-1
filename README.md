@@ -15,6 +15,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 - Code 1 hour daily
 - Commit progress to github everyday
+- Write a medium article every 10 days about lessons learned
 - Become MERN stack developer
 - Complete the [Fullstack developer path](https://github.com/shovanch/fullstack-web-developer-path)
 
@@ -50,16 +51,33 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
-## 01. Lets do it
+## 01. Working with CSS Grid
 ### Day 01: January 1, Monday
 
-**Today's Progress :**
+**Today's Progress :** Made a reusable card component using grid and flexbox together. Worked on making a image gallery using CSS grid. Quite great, once got the hang of the syntax.
 
-**Thoughts :**
+**Thoughts :** So far so good. CSS grid looks quite promising. It also made working with CSS layouts fun instead of the hack-n-slash with float. Important thing to note that Grid and flexbox compliment each other, not as replacement. Grid for 2D, Flexbox for 1D. The image gallery part was really cool. Basically it was just laying the template-columns and then placing each grid item following the grid-lines. Kid's stuff.
 
+![capture](https://user-images.githubusercontent.com/16104985/34470598-f740ecac-ef5a-11e7-9dcc-b674633026f8.PNG)
+
+Also learned a rather cool emmet trick to use while writing HTML markup for this type of image gallery
+
+```html
+<!-- This and then pressing tab would-->
+(img.gallery__img--$[src="img/gallery-$"][alt="Gallery Image $"])*5
+
+<!-- print this number of times specified in increasing order, 😎-->
+<img src="img/gallery-1" alt="Gallery Image 1" class="gallery__img--1">
+```
 **Thing(s) learned :**
+- How to make a simple card component using grid and flexbox
+- Grid overlapping method + z-index to position items.
+- `<sup>` tag to write superscript numbers
+- object-fit property for images to maintain aspect ratio
 
 **Link(s) to work :**
+- [CSS grid project code](https://github.com/shovanch/advanced-css-course-projects/tree/master/Nexter)
+- [Live project site](https://shovanch.com/advanced-css-course-projects/Nexter/)  (work-in-progress)
 
 ---
 

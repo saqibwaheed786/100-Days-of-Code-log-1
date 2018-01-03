@@ -50,6 +50,24 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 ---
 
 -->
+## 02. Completed Nexter project
+### Day 02: January 2, Tuesday
+
+**Today's Progress :** Completed the nexter project as part of Advanced CSS course.
+
+**Thoughts :** Learned lot about CSS Grid in this projects, in various situations and use cases. Will complete the media queries tomorrow. Then, moving on to the project- Cloning the homepage of Medium using grid. Quite excited. The completed project looks really great.
+
+![Webpage gif](https://media.giphy.com/media/d2iYkL9TzZj7kGBO/giphy.gif)
+
+**Thing(s) learned :**
+- Using ::before and ::after pseudo elements as grid items
+- How to make the commonly used 'Seen on' section
+
+**Link(s) to work :**
+- [CSS grid project code](https://github.com/shovanch/advanced-css-course-projects/tree/master/Nexter)
+- [Live project site](https://shovanch.com/advanced-css-course-projects/Nexter/)  (Not fully-responsive yet)
+
+---
 
 ## 01. Working with CSS Grid
 ### Day 01: January 1, Monday

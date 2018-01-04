@@ -35,7 +35,6 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 <!--
 
-
 ## XX.
 ### Day XX: Month X, Xday
 
@@ -50,6 +49,25 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 ---
 
 -->
+
+## 03. Making CSS grid responsive
+### Day 03: January 4, Thursday
+
+**Today's Progress :** Had a bit of work left on the CSS grid project from yesterday. Wrote the media queries for the layout. Now, it looks on great on all widths.
+
+**Thoughts :** Missed last day. Had extreme headache. Couldn't focus on work. Neeed to keep this missed day numbers minimal. Writing the media queries for grid and realized how easy it is now compared to the tons of code for floats and even flexbox. Most of the layout can be made responsive at the first place using properties like minmax(), min-content, max-content. Its all buttery smooth. The only problem is browser support. I dont want to write duplicate code for old browsers. So, from now on its going to be all grids. Flexbox at most as fallback. Couldn't start the medium-clone project as expected today. Lets get on with it with full force from tomorrow. 🔥
+
+**Thing(s) learned :**
+- How to make CSS grid layout responsive using media queries
+- How to make fallback for grid using @supports rule
+
+**Link(s) to work :**
+- [CSS grid project code](https://github.com/shovanch/advanced-css-course-projects/tree/master/Nexter)
+- [Live project site](https://shovanch.com/advanced-css-course-projects/Nexter/)
+
+
+---
+
 ## 02. Completed Nexter project
 ### Day 02: January 2, Tuesday
 

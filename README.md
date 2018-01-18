@@ -50,6 +50,23 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
+## 04. Working on MediumUI clone
+### Day 04: January 18, Thursday
+
+**Today's Progress :** Back to coding after 2 weeks. Made some progress on the medium UI project. Done with the header and top two sections.
+
+![Medium Homepage clone](https://user-images.githubusercontent.com/16104985/35112487-37cc1cb4-fca4-11e7-853c-5f135b3c7c84.png)
+
+**Thoughts :** Its a good idea to practice both Dev and UI skills by cloning other sites. On that note, working on the medium homepage. Quite confident that I would be able to do it nearly the same. Although there's some margin issue on Firefox. Will debug them after doing it on Chrome.
+
+**Thing(s) learned :** Nothing learnt. Mostly practicing upon the old ones.
+
+**Link(s) to work :**
+- [Live Site](https://shovanch.com/ui-projects/medium-ui) (Work-in-progress)
+- [Github Repo](https://github.com/shovanch/ui-projects/tree/master/medium-ui)
+
+---
+
 ## 03. Making CSS grid responsive
 ### Day 03: January 4, Thursday
 

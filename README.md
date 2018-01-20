@@ -50,6 +50,23 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
+## 05. Medium UI project
+### Day 05: January 19, Friday
+
+**Today's Progress :** Coded two more sections of the Medium UI project. Still have some problem in Firefox, I think most related to grid-row height. Will look into it, after coding it in Chrome. The story feed section seemed bit complex, but at the end it was just changing the flex-direction property and it worked. Cool!!
+
+![Medium clone story feed section](https://user-images.githubusercontent.com/16104985/35186073-56f62e04-fe34-11e7-81d2-e99e61d998ed.png)
+
+**Thoughts :** Over the course of time, my CSS course has improved a lot. Special thanks to the Udemy advanced CSS course. Feels quite confident working with CSS now. Now, need to get to that same level with Javascript too. Starting the JS course from tomorrow.
+
+**Thing(s) learned :** More coding, less learning.
+
+**Link(s) to work :**
+- [Live Site](https://shovanch.com/ui-projects/medium-ui) (Work-in-progress)
+- [Github Repo](https://github.com/shovanch/ui-projects/tree/master/medium-ui)
+
+---
+
 ## 04. Working on MediumUI clone
 ### Day 04: January 18, Thursday
 

@@ -1,42 +1,40 @@
 <!-- markdownlint-disable MD022 MD032 -->
-# [Shovan Chatterjee](https://twitter.com/shovan_ch)
+
+# Shovan Chatterjee
 
 ## 100 Days Of Code - Round 2 Log
 
-**Commitment:** ***I will code for at least an hour a day for the next 100 days.***
+**Commitment:** **_I will code for at least an hour a day for the next 100 days._**
 
 Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/) or [the official repo](https://github.com/Kallaway/100-days-of-code).
 
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| Jan 1st, 2018 | ------------ |
+| Start Date     | End Date     |
+| -------------- | ------------ |
+| Jan 31st, 2018 | ------------ |
 
 ## Goals
 
-- Code 1 hour daily
-- Commit progress to github everyday
-- Write a medium article every 10 days about lessons learned
-- Become MERN stack developer
-- Complete the [Fullstack developer path](https://github.com/shovanch/fullstack-web-developer-path)
+* Code 1 hour daily
+* Commit progress to github everyday
+* Write a medium article every 10 days about lessons learned
+* Become MERN stack developer
 
-### January
-- Complete the [Udemy JS course](https://www.udemy.com/the-complete-javascript-course/)
-- Complete Javascript30
-- Make 5 design based frontend projects
-- Make 5 JS based frontend projects
+### Goals for Day 1 - Day 30
 
-### February
- - React Month
+* [ ] Complete the [Udemy JS course](https://www.udemy.com/the-complete-javascript-course/)
+* [ ] Complete Javascript30
+* [ ] Make 3 design based frontend projects
+* [ ] Make 5 JS based frontend projects
 
-### March
-- Node Month
+* [ ] Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
+* [ ] Make 3 React Projects
 
 # Log
 
 <!--
 
 ## XX.
-### Day XX: Month X, Xday
+### Day XX: Feb , day
 
 **Today's Progress :**
 
@@ -50,7 +48,21 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
-## 05. Medium UI project
+## 01.
+
+### Day 01: Jan 31, Wednesday
+
+**Today's Progress :**
+
+**Thoughts :**
+
+**Thing(s) learned :**
+
+**Link(s) to work :**
+
+---
+
+<!-- ## 05. Medium UI project
 ### Day 05: January 19, Friday
 
 **Today's Progress :** Coded two more sections of the Medium UI project. Still have some problem in Firefox, I think most related to grid-row height. Will look into it, after coding it in Chrome. The story feed section seemed bit complex, but at the end it was just changing the flex-direction property and it worked. Cool!!
@@ -133,10 +145,10 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 Also learned a rather cool emmet trick to use while writing HTML markup for this type of image gallery
 
 ```html
-<!-- This and then pressing tab would-->
+<!-- This and then pressing tab would-
 (img.gallery__img--$[src="img/gallery-$"][alt="Gallery Image $"])*5
 
-<!-- print this number of times specified in increasing order, 😎-->
+<!-- print this number of times specified in increasing order, 😎
 <img src="img/gallery-1" alt="Gallery Image 1" class="gallery__img--1">
 ```
 **Thing(s) learned :**
@@ -150,4 +162,4 @@ Also learned a rather cool emmet trick to use while writing HTML markup for this
 - [Live project site](https://shovanch.com/advanced-css-course-projects/Nexter/)  (work-in-progress)
 
 ---
-
+ -->

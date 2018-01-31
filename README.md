@@ -23,11 +23,11 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 * [ ] Complete the [Udemy JS course](https://www.udemy.com/the-complete-javascript-course/)
 * [ ] Complete Javascript30
-* [ ] Make 3 design based frontend projects
-* [ ] Make 5 JS based frontend projects
+* [ ] Build 3 design based frontend projects
+* [ ] Build 5 JS based frontend projects
 
 * [ ] Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
-* [ ] Make 3 React Projects
+* [ ] Build 3 React Projects
 
 # Log
 

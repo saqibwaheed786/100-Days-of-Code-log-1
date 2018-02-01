@@ -17,15 +17,15 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 * Code 1 hour daily
 * Commit progress to github everyday
 * Write a medium article every 10 days about lessons learned
-* Become MERN stack developer
+* Become a MERN stack developer and start freelancing
 
-### Goals for Day 1 - Day 30
+### Goals for Day 1 - Day 30 (FOCUS -> JS and React)
 
 * Complete the [Udemy JS course](https://www.udemy.com/the-complete-javascript-course/)
-* Complete Javascript30
+* Complete [Javascript30](https://javascript30.com/)
 * Build 3 design based frontend projects
 * Build 5 JS based frontend projects
-* Read the YDKJS book series
+* Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series
 
 * Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
 * Build 2 React Projects
@@ -45,21 +45,47 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 **Link(s) to work :**
 
+**Tomorrow's Goals**
+
 ---
 
 -->
 
-## 01.
+## 01. Learning How JS works
 
 ### Day 01: Feb 1, Thursday
 
-**Today's Progress :**
+**Today's Progress :** Did 'How JS works' section of Complete JS developer course.
 
-**Thoughts :**
+**Thoughts :** Learned How JS executes code in the background. Core concepts are really helpful to be a complete developer. It gives a new insight when solving the same problems. <br> Going to break the challenge into short term goals. Like for D30, the goal is to become proficient in JS and get started with React with more time spent on building actual projects.
 
 **Thing(s) learned :**
 
+* Written JS code goes into the JS engine (Ex: Chrome V8 Engine) where it first parsed into AST(Abstract Syntax tree) -> conversion to machine code -> then the machine code gets executed.
+* **Execution context** is like a wrapper or container which store the variables and where code is evaluated and executed. Default execution context is global (Which is window object in browser).
+* **Execution context** phases are divided into 1. Creation phase and 2. Execution Phase.
+* In **Creation Phase**: First, the variable object is created. Code is scanned for function and variable declaration. Which gets moved to the top. Regardless of where they are declared. This behaviour called Hoisting. <br> For each function, a property gets created in the VO and its points to the actual function. As for the variable, it also gets a property is VO, but its value is set as undefined. thats why calling why a variable before its actual declared shows undefined, then it gets defined in execution phase. But, in ES6, this things matter less, as const and let are block scoped.
+* **Scopes** : Creating the scope chain is 2nd step of creation phase. <br> Scopes answer where we can access a certain variable. Each function creates a scope. As for _lexical scoping_ it means function written within another function gets access to the scope of outer function. The default scope is global scope (Matters less in ES6).
+* **Execution stack VS Scope chain**: Ex. context -> order in which functions are called. <br> Scope chain -> Order in which functions are written lexically.
+* **this** : 3rd step of creation of phase of ECxt is determining and setting value of 'this' keyword. <br>
+  _In regular function call_ -> 'this' points to the global object (window obj. in browser).
+  _In object method call_ -> 'this' points to the object that is calling the method.
+* 'this' is not assigned to a value untill a fn. where its actually defined is called. Using this concept, we can use method borrowing to share method between objects.
+
+```javascript
+obj1.method = obj2.method;
+// calling the method from object 2
+obj2.method();
+```
+
 **Link(s) to work :**
+
+* [Code examples](https://codepen.io/shovanch/pen/paJdKQ?editors=0012)
+
+**Tomorrow's Goals**
+
+* Complete the DOM section of Complete JS course
+* Complete module 1 & 2 of Javascript30
 
 ---
 

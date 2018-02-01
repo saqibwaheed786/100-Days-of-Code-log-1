@@ -8,9 +8,9 @@
 
 Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/) or [the official repo](https://github.com/Kallaway/100-days-of-code).
 
-| Start Date     | End Date     |
-| -------------- | ------------ |
-| Jan 31st, 2018 | ------------ |
+| Start Date    | End Date     |
+| ------------- | ------------ |
+| Feb 1st, 2018 | ------------ |
 
 ## Goals
 
@@ -21,13 +21,14 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 ### Goals for Day 1 - Day 30
 
-* [ ] Complete the [Udemy JS course](https://www.udemy.com/the-complete-javascript-course/)
-* [ ] Complete Javascript30
-* [ ] Build 3 design based frontend projects
-* [ ] Build 5 JS based frontend projects
+* Complete the [Udemy JS course](https://www.udemy.com/the-complete-javascript-course/)
+* Complete Javascript30
+* Build 3 design based frontend projects
+* Build 5 JS based frontend projects
+* Read the YDKJS book series
 
-* [ ] Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
-* [ ] Build 3 React Projects
+* Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
+* Build 2 React Projects
 
 # Log
 
@@ -50,7 +51,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 ## 01.
 
-### Day 01: Jan 31, Wednesday
+### Day 01: Feb 1, Thursday
 
 **Today's Progress :**
 

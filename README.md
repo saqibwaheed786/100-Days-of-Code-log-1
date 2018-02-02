@@ -51,6 +51,47 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
+## 02. Building JS Pig Game
+
+### Day 02: Feb 2, Friday
+
+**Today's Progress :** Completed DOM manipulation section of JS course. Build the JS Pig game. Quite fun to play.
+
+**Thoughts :** Building the JS pig game was quite fun. Learned about simple yet powerful concepts for working with the DOM. Most important part, coding each part methodically. Order in Chaos. Didn't work on JS30 today. Will compensate for it tomorrow. <br> On the other hand, submitted the profile on Upwork but it got rejected due the reason of 'lack of oppurtunities'. Need to work on the core skills, make some awesome projects and resubmit again. Target is 1st week of March.
+
+**Thing(s) learned :**
+
+* Accessing and manipulating the DOM elements
+* **How events get processed** : With parallel to the execution stack there's a thing called 'message queue'. Where the events are stored in line. So, _when the execution is empty or all the functions have been returned_ then the next event in message queue gets processed, then it calls the event listener which itself is a function so it gets added to the execution stack and it goes on... 😅.
+* **Callback functions** : Functions are which are not called by us. For example, inside event listener we dont put function call only the function name as the event listener will call the function when it gets processed in the execution stack.
+
+```javascript
+function f1() {
+  // Do something
+}
+
+// Calling the function
+f1();
+
+// Function gets called by the event listener, hence no brackets. Its a callback function
+dom.addEventListener("click", f1);
+```
+
+* Using _state variables_ to keep track of the status of the program
+
+**Link(s) to work :**
+
+* [JS PIG game project](https://shovanch.com/JS-course-projects/DOM-Pig-Game/)
+* [Project Code](https://github.com/shovanch/JS-course-projects/tree/master/DOM-Pig-Game)
+
+**Tomorrow's Goals**
+
+* Add the extra features to the game
+* Complete Advanced Objects and Function section of the JS course
+* Do modules 1 and 2 of JS30
+
+---
+
 ## 01. Learning How JS works
 
 ### Day 01: Feb 1, Thursday
@@ -84,7 +125,7 @@ obj2.method();
 
 **Tomorrow's Goals**
 
-* Complete the DOM section of Complete JS course
+* ~~Complete the DOM section of Complete JS course~~
 * Complete module 1 & 2 of Javascript30
 
 ---

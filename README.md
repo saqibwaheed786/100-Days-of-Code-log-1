@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD022 MD032 -->
 
-# [Shovan Chatterjee](https://twitter.com/shovan_ch)
+# Shovan Chatterjee [![Twitter Follow](https://img.shields.io/twitter/follow/shovan_ch.svg?style=flat-square&label=Follow%20@shovan_ch)](https://twitter.com/intent/follow?screen_name=shovan_ch)
+
 
 ## 100 Days Of Code - Round 2 Log
 

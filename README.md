@@ -53,13 +53,44 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
+## 03. Objects, prototype and functions
+### Day 03: Feb 3 , Saturday
+
+**Today's Progress :** Made progress on the Advanced Objects and Functions section of the JS course. Learned about fundamental concepts like prototype, inheritance, first-class functions and lot more things.
+
+**Thoughts :** Again fell short of goals that I set yesterday, Still progress is made. Need to carry the momentum forward. The JS course has been phenomenal so far. Lots of 'aha' moments here and there. Getting to know how things work from inside is truly enlighting. Going to focus on more on this path. Get really skilled with vanilla JS concepts. <br> Looked for some remote dev jobs offering. All's well with only one cavaet, 'The experience' requirement. Having said that, focus is to learn and build now, then moving to jobs.
+
+**Thing(s) learned :**
+- **Objects and Primitives**:
+- **How inheritance works in JS**:
+- **Prototype and Prototype chain**:
+- **Creating objects using Function constructors**:
+- **Creating objects using Object.create()**:
+- **First class functions**:
+- **Passing functions as an argument to another function**:
+- **Functions returning functions**:
+- **immediately Invoked Function Expressions (IIFE)**:
+
+Whew... thats a hell lot of things. Will write detailed notes tomorrow after completing the whole section.
+
+**Link(s) to work :**
+- [Course Codes](https://codepen.io/shovanch/pen/xYZemV)
+
+**Tomorrow's Goals**
+- Complete the Advanced Objects and functions section and write detailed notes
+- Solve the coding challenges and add the features in the DOM Pig game
+- Do 3 modules of JS30
+
+---
+
+
 ## 02. Building JS Pig Game
 
 ### Day 02: Feb 2, Friday
 
-**Today's Progress :** Completed DOM manipulation section of JS course. Build the JS Pig game. Quite fun to play.
+**Today's Progress :** Completed DOM manipulation section of JS course. Build the JS Pig game. It's fun to play.
 
-**Thoughts :** Building the JS pig game was quite fun. Learned about simple yet powerful concepts for working with the DOM. Most important part, coding each part methodically. Order in Chaos. Didn't work on JS30 today. Will compensate for it tomorrow. <br> On the other hand, submitted the profile on Upwork but it got rejected due the reason of 'lack of oppurtunities'. Need to work on the core skills, make some awesome projects and resubmit again. Target is 1st week of March.
+**Thoughts :** Building the JS pig game was quite fun. Learned about simple yet powerful concepts for working with the DOM. Most important thing, coding each part methodically like a piece of puzzle. Order in Chaos. Didn't work on JS30 today. Will compensate for it tomorrow. <br> Also, submitted the profile on Upwork but it got rejected due the reason of 'lack of oppurtunities'. Need to work on the core skills, make some awesome projects and resubmit again. Target -> 1st week of March.
 
 **Thing(s) learned :**
 

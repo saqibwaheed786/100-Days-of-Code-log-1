@@ -53,7 +53,31 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
+## 04.Starting Javascript30
+
+### Day 04: Feb 4, Sunday
+
+**Today's Progress :**
+
+**Thoughts :**
+
+**Thing(s) learned :**
+
+**Link(s) to work :**
+
+* [JS30 Project Repo](https://github.com/shovanch/JS30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+* [JS30 Module-1 Live](https://shovanch.com/JS30/01%20-%20JavaScript%20Drum%20Kit/)
+
+**Tomorrow's Goals**
+
+* Complete the Advanced Obj and Function section and write the notes
+* Complete all the coding challenges in the sections
+* DO 2 more modules of JS30
+
+---
+
 ## 03. Objects, prototype and functions
+
 ### Day 03: Feb 3 , Saturday
 
 **Today's Progress :** Made progress on the Advanced Objects and Functions section of the JS course. Learned about fundamental concepts like prototype, inheritance, first-class functions and lot more things.
@@ -61,28 +85,30 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 **Thoughts :** Again fell short of goals that I set yesterday, Still progress is made. Need to carry the momentum forward. The JS course has been phenomenal so far. Lots of 'aha' moments here and there. Getting to know how things work from inside is truly enlighting. Going to focus on more on this path. Get really skilled with vanilla JS concepts. <br> Looked for some remote dev jobs offering. All's well with only one cavaet, 'The experience' requirement. Having said that, focus is to learn and build now, then moving to jobs.
 
 **Thing(s) learned :**
-- **Objects and Primitives**:
-- **How inheritance works in JS**:
-- **Prototype and Prototype chain**:
-- **Creating objects using Function constructors**:
-- **Creating objects using Object.create()**:
-- **First class functions**:
-- **Passing functions as an argument to another function**:
-- **Functions returning functions**:
-- **immediately Invoked Function Expressions (IIFE)**:
+
+* **Objects and Primitives**:
+* **How inheritance works in JS**:
+* **Prototype and Prototype chain**:
+* **Creating objects using Function constructors**:
+* **Creating objects using Object.create()**:
+* **First class functions**:
+* **Passing functions as an argument to another function**:
+* **Functions returning functions**:
+* **immediately Invoked Function Expressions (IIFE)**:
 
 Whew... thats a hell lot of things. Will write detailed notes tomorrow after completing the whole section.
 
 **Link(s) to work :**
-- [Course Codes](https://codepen.io/shovanch/pen/xYZemV)
+
+* [Course Codes](https://codepen.io/shovanch/pen/xYZemV)
 
 **Tomorrow's Goals**
-- Complete the Advanced Objects and functions section and write detailed notes
-- Solve the coding challenges and add the features in the DOM Pig game
-- Do 3 modules of JS30
+
+* Complete the Advanced Objects and functions section and write detailed notes
+* Solve the coding challenges and add the features in the DOM Pig game
+* ~~Do 3 modules of JS30~~ [Only 1 done 😔]
 
 ---
-
 
 ## 02. Building JS Pig Game
 

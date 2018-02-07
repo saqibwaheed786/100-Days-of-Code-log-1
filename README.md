@@ -25,9 +25,9 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 * Build 3 design based frontend projects
 * Build 5 JS based frontend projects
 * Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series
-* Complete [Deep JS foundations](https://frontendmasters.com/courses/javascript-foundations/)
 * Complete [JS: Understanding the weird parts](https://www.udemy.com/understand-javascript/)
 * Solve all the FreeCodeCamp algorithmic challenges
+<!-- * Complete [Deep JS foundations](https://frontendmasters.com/courses/javascript-foundations/) -->
 
 - Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
 - Build 2 React Projects

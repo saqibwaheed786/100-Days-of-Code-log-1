@@ -53,7 +53,23 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
-## 04.Starting Javascript30
+## 05. Completed Advanced Obj. and Functions
+### Day 05: Feb 5 , Monday
+
+**Today's Progress :**
+
+**Thoughts :**
+
+**Thing(s) learned :**
+
+**Link(s) to work :**
+
+**Tomorrow's Goals**
+
+---
+
+
+## 04. Starting Javascript30
 
 ### Day 04: Feb 4, Sunday
 

@@ -27,12 +27,17 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 * Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series
 * Complete [JS: Understanding the weird parts](https://www.udemy.com/understand-javascript/)
 * Solve all the FreeCodeCamp algorithmic challenges
-<!-- * Complete [Deep JS foundations](https://frontendmasters.com/courses/javascript-foundations/) -->
+  <!-- * Complete [Deep JS foundations](https://frontendmasters.com/courses/javascript-foundations/) -->
 
 - Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
 - Build 2 React Projects
-
-# Log
+  <!--
+- Node
+- Redux
+- Node with React
+- React Natve
+  -->
+  # Log
 
 <!--
 
@@ -53,7 +58,27 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
+## 06. Progress with JS30
+
+### Day 06: Feb 9 , Friday
+
+**Today's Progress :** Did Module 2 and 3 of Javascipt30.
+
+**Thoughts :**
+
+**Thing(s) learned :**
+
+**Link(s) to work :**
+
+**Tomorrow's Goals**
+
+* Complete the part-1 of the JS course coding challenges.
+* Do 2 modules of JS30
+
+---
+
 ## 05. Completed Advanced Obj. and Functions
+
 ### Day 05: Feb 5 , Monday
 
 **Today's Progress :**
@@ -67,7 +92,6 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 **Tomorrow's Goals**
 
 ---
-
 
 ## 04. Starting Javascript30
 

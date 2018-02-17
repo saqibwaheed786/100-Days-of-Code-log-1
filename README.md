@@ -44,6 +44,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 <!--
 
 ## XX.
+
 ### Day XX: Feb , day
 
 **Today's Progress :**
@@ -59,6 +60,22 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 ---
 
 -->
+
+## 07. Setting up the blog
+
+### Day 07: Feb 17 , Saturday
+
+**Today's Progress :** It's good to be back.
+
+**Thoughts :**
+
+**Thing(s) learned :**
+
+**Link(s) to work :**
+
+**Tomorrow's Goals**
+
+---
 
 ## 06. Progress with JS30
 

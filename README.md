@@ -7,9 +7,9 @@
 
 Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/) or [the official repo](https://github.com/Kallaway/100-days-of-code).
 
-| Start Date    | End Date     |
-| ------------- | ------------ |
-| Feb 1st, 2018 | ------------ |
+| Start Date     | End Date     |
+| -------------- | ------------ |
+| Feb 24th, 2018 | ------------ |
 
 ## Goals
 
@@ -60,6 +60,25 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 ---
 
 -->
+
+## 01.
+
+### Day 01: Feb 24, Saturday
+
+**Today's Progress :**
+
+**Thoughts :**
+
+**Thing(s) learned :**
+
+**Link(s) to work :**
+
+**Tomorrow's Goals**
+
+
+
+
+<!--
 
 ## 07. Setting up the blog
 
@@ -248,6 +267,7 @@ obj2.method();
 
 ---
 
+-->
 <!-- ## 05. Medium UI project
 ### Day 05: January 19, Friday
 

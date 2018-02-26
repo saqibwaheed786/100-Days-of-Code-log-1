@@ -9,7 +9,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 | Start Date     | End Date     |
 | -------------- | ------------ |
-| Feb 25th, 2018 | ------------ |
+| Feb 26th, 2018 | ------------ |
 
 ## Goals
 
@@ -63,7 +63,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 ## 01.
 
-### Day 01: Feb 25, Sunday
+### Day 01: Feb 26, Monday
 
 **Today's Progress :**
 

@@ -7,9 +7,9 @@
 
 Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/) or [the official repo](https://github.com/Kallaway/100-days-of-code).
 
-| Start Date     | End Date     |
-| -------------- | ------------ |
-| Feb 26th, 2018 | ------------ |
+| Start Date   | End Date     |
+| ------------ | ------------ |
+| Mar 13, 2018 | ------------ |
 
 ## Goals
 

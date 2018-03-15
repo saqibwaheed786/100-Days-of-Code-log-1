@@ -45,7 +45,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 ## XX.
 
-### Day XX: Feb , day
+### Day XX: Mar , day
 
 **Today's Progress :**
 
@@ -61,11 +61,28 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
+## 02.
+
+### Day 02: 14 Mar , Wednesday
+
+**Today's Progress :** Completed budget-tracker-project section of the Complete JS developer course.
+
+**Thoughts :** Will complete ES6 part today. Hoping to complete till Module-20 of JS30 by the end of the week and build the redesign of the portfolio.
+
+**Thing(s) learned :**
+
+**Link(s) to work :**
+
+**Tomorrow's Goals**
+
+---
+
+
 ## 01.
 
-### Day 01: Feb 26, Monday
+### Day 01: Mar 13, Tuesday
 
-**Today's Progress :**
+**Today's Progress :** Preliminary prep. work.
 
 **Thoughts :**
 
@@ -74,6 +91,20 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 **Link(s) to work :**
 
 **Tomorrow's Goals**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -9,35 +9,26 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 | Start Date   | End Date     |
 | ------------ | ------------ |
-| Mar 13, 2018 | ------------ |
+| Apr 19, 2018 | ------------ |
 
 ## Goals
 
 * Code 1 hour daily
 * Commit progress to github everyday
-* Write a medium article every 10 days about lessons learned
+* Write a medium article every week about lessons learned
 * Become a MERN stack developer and start freelancing
 
-### Goals for Day 1 - Day 30 (FOCUS -> JS and React)
+### Roadmap for Day 1 - Day 30 (FOCUS -> ES6 and React)
 
-* Complete the [Udemy JS course](https://www.udemy.com/the-complete-javascript-course/)
-* Complete [Javascript30](https://javascript30.com/)
-* Build 3 design based frontend projects
-* Build 5 JS based frontend projects
+* Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)
+* Build 3 ES6 projects
 * Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series
 * Complete [JS: Understanding the weird parts](https://www.udemy.com/understand-javascript/)
 * Solve all the FreeCodeCamp algorithmic challenges
 
 * Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
-* Build 2 React Projects
+* Build 3 React Projects
 
-<!--
-* Complete [Deep JS foundations](https://frontendmasters.com/courses/javascript-foundations/)
-- Node
-- Redux
-- Node with React
-- React Natve
- -->
 
 # Log
 
@@ -61,36 +52,14 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
-## 02.
-
-### Day 02: 14 Mar , Wednesday
-
-**Today's Progress :** Completed budget-tracker-project section of the Complete JS developer course.
-
-**Thoughts :** Will complete ES6 part today. Hoping to complete till Module-20 of JS30 by the end of the week and build the redesign of the portfolio.
-
-**Thing(s) learned :**
-
-**Link(s) to work :**
-
-**Tomorrow's Goals**
-
----
 
 
-## 01.
 
-### Day 01: Mar 13, Tuesday
 
-**Today's Progress :** Preliminary prep. work.
 
-**Thoughts :**
 
-**Thing(s) learned :**
 
-**Link(s) to work :**
 
-**Tomorrow's Goals**
 
 
 
@@ -110,6 +79,15 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 
 <!--
+## 02.
+
+### Day 02: 14 Mar , Wednesday
+
+**Today's Progress :** Completed budget-tracker-project section of the Complete JS developer course.
+
+**Thoughts :** Will complete ES6 part today. Hoping to complete till Module-20 of JS30 by the end of the week and build the redesign of the portfolio.
+
+----
 
 ## 07. Setting up the blog
 

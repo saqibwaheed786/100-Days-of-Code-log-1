@@ -18,7 +18,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 * Write a medium article every week about lessons learned
 * Become a MERN stack developer and start freelancing
 
-### Day 1 - Day 30 (FOCUS -> ES6 and React)
+**Day 1 - Day 30 (***FOCUS -> ES6 and React***)**
 
 * Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)
 * Build 3 ES6 projects
@@ -36,7 +36,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 ## XX.
 
-### Day XX: Mar , day
+**Day XX: Mar , day**
 
 **Today's Progress :**
 
@@ -52,8 +52,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 ## 01. ES6
-
-### Day 01: Apr 20 , Friday
+**Day 01: Apr 20 , Friday**
 
 **Today's Progress :** Worked on the Javascript Course. Learnt about spread, rest parameters, default parameters, maps. Having that clicked feeling, when you understood something for first time. Lets build up the momentum. 🔥
 

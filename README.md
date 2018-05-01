@@ -7,9 +7,9 @@
 
 Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/) or [the official repo](https://github.com/Kallaway/100-days-of-code).
 
-| Start Date   | End Date     |
-| ------------ | ------------ |
-| Apr 20, 2018 | ------------ |
+| Start Date  | End Date     |
+| ----------- | ------------ |
+| May 1, 2018 | ------------ |
 
 ## Goals
 
@@ -23,10 +23,10 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 * Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)
 * Build 3 ES6 projects
 * Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series
-* Complete [JS: Understanding the weird parts](https://www.udemy.com/understand-javascript/)
 * Solve all the FreeCodeCamp algorithmic challenges
 
 * Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
+<!-- * Complete [JS: Understanding the weird parts](https://www.udemy.com/understand-javascript/) -->
 * Build 3 React Projects
 
 
@@ -51,28 +51,22 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 ---
 
 -->
-## 01. ES6
-**Day 01: Apr 20 , Friday**
 
-**Today's Progress :** Worked on the Javascript Course. Learnt about spread, rest parameters, default parameters, maps. Having that clicked feeling, when you understood something for first time. Lets build up the momentum. 🔥
+## XX.
+
+**Day XX: Mar , day**
+
+**Today's Progress :**
 
 **Thoughts :**
 
 **Thing(s) learned :**
-  - Spread Operator
-  - Rest parameters
-  - Default parameters
-  - Maps and how to use it
 
 **Link(s) to work :**
 
 **Tomorrow's Goals**
- - Complete ES6 learning part of the JS Course.
 
 ---
-
-
-
 
 
 
@@ -103,6 +97,25 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 **Today's Progress :** Completed budget-tracker-project section of the Complete JS developer course.
 
+## 01. ES6
+**Day 01: Apr 20 , Friday**
+
+**Today's Progress :** Worked on the Javascript Course. Learnt about spread, rest parameters, default parameters, maps. Having that clicked feeling, when you understood something for first time. Lets build up the momentum. 🔥
+
+**Thoughts :**
+
+**Thing(s) learned :**
+  - Spread Operator
+  - Rest parameters
+  - Default parameters
+  - Maps and how to use it
+
+**Link(s) to work :**
+
+**Tomorrow's Goals**
+ - Complete ES6 learning part of the JS Course.
+
+---
 **Thoughts :** Will complete ES6 part today. Hoping to complete till Module-20 of JS30 by the end of the week and build the redesign of the portfolio.
 
 ----

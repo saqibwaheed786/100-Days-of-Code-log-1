@@ -9,7 +9,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 | Start Date  | End Date     |
 | ----------- | ------------ |
-| May 1, 2018 | ------------ |
+| May 9, 2018 | ------------ |
 
 ## Goals
 
@@ -21,7 +21,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 **Day 1 - Day 30 (***FOCUS -> ES6 and React***)**
 
 * Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)
-* Build 3 ES6 projects
+* Build 2 ES6 projects
 * Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series
 * Solve all the FreeCodeCamp algorithmic challenges
 
@@ -52,19 +52,24 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
-## XX.
+## 01. Setup webpack
 
-**Day XX: Mar , day**
+**Day 01: May 9 , Wednesday**
 
-**Today's Progress :**
+**Today's Progress :** Making progress on the JS course. Learned about webpack and how to setup a webpack config.
 
-**Thoughts :**
+**Thoughts :** Going to do speedrun on the course. Want to move on to projects and React as fast as possible.
 
 **Thing(s) learned :**
+* How to setup webpack config with plugins and dev-server
+* MVC architecture
+* How ES6 modules work
 
 **Link(s) to work :**
+* [Project link](https://github.com/shovanch/forkify)
 
 **Tomorrow's Goals**
+* No specific goals, just focus on coding atleast 1 hour.
 
 ---
 

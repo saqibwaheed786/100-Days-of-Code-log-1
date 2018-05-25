@@ -7,9 +7,9 @@
 
 Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/) or [the official repo](https://github.com/Kallaway/100-days-of-code).
 
-| Start Date  | End Date     |
-| ----------- | ------------ |
-| May 9, 2018 | ------------ |
+| Start Date   | End Date     |
+| ------------ | ------------ |
+| May 25, 2018 | ------------ |
 
 ## Goals
 
@@ -22,13 +22,12 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 * Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)
 * Build 2 ES6 projects
+* Build the Chingu project
 * Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series
 * Solve all the FreeCodeCamp algorithmic challenges
 
 * Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
-<!-- * Complete [JS: Understanding the weird parts](https://www.udemy.com/understand-javascript/) -->
 * Build 3 React Projects
-
 
 # Log
 
@@ -52,6 +51,36 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 -->
 
+## 01. Working with ES6
+
+**Day 01: May 25 , Friday**
+
+**Today's Progress :** Working on the ES6 project. Things are coming nice and clean. Quite happy with progress so far. Hoping to complete the project tonight and get started with React.
+
+**Thoughts :** Another attempt with #100DaysOfCode. Lets do it this time. Coming weeks, there's going to be a lot of coding. Projects + exams are coming, so that counts too.
+
+**Thing(s) learned :**
+To be added
+
+**Link(s) to work :**
+- [ES6 project repo](https://github.com/shovanch/forkify)
+- [Live project](http://shovanch.com/forkify/)
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 ## 01. Setup webpack
 
 **Day 01: May 9 , Wednesday**
@@ -72,30 +101,6 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 * No specific goals, just focus on coding atleast 1 hour.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
 ## 02.
 
 ### Day 02: 14 Mar , Wednesday

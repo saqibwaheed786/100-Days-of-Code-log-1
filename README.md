@@ -9,7 +9,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 | Start Date   | End Date     |
 | ------------ | ------------ |
-| May 25, 2018 | ------------ |
+| May 29, 2018 | ------------ |
 
 ## Goals
 
@@ -19,23 +19,20 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 * Become a MERN stack developer and start freelancing
 
 **Day 1 - Day 30 (***FOCUS -> ES6 and React***)**
-
-* Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)
-* Build 2 ES6 projects
-* Build the Chingu project
-* Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series
-* Solve all the FreeCodeCamp algorithmic challenges
-
-* Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
-* Build 3 React Projects
+* [x] **Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)**
+* [ ] Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
+* [ ] Build 3 React Projects
+* [ ] Build 2 ES6 projects
+* [ ] Build the Chingu project
+* [ ] Solve  the FreeCodeCamp JS algorithmic challenges
+<!-- * [ ] Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series -->
 
 # Log
 
 <!--
-
 ## XX.
 
-**Day XX: Mar , day**
+**Day XX: May , day**
 
 **Today's Progress :**
 
@@ -46,11 +43,45 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 **Link(s) to work :**
 
 **Tomorrow's Goals**
+---
+-->
+## 01. Completed the ES6 course
+
+**Day 01: May 29 , Tuesday**
+
+**Today's Progress :**
+Done with the ES6 course on Udemy. It was quite a extensive guide to all the modern JS features and architectures. Learned a lot. Moving to React ecosystem, extensive knowledge of ES6 will come quite handy.
+
+**Thoughts :**
+Starting React from tomorrow. Exams are also from next week. It'll quite a juggling act between these two.
+
+**Thing(s) learned :**
+Blog post coming soon.
+
+**Link(s) to work :**
+- [ES6 project repo](https://github.com/shovanch/forkify)
+- [Live project](http://shovanch.com/forkify/)
+
+**Tomorrow's Goals :**
+Base Goal = Code min. 1 hour.<br>
+Will start the React Course plus reading and coding some Data Structures for exams.
 
 ---
 
--->
 
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 ## 01. Working with ES6
 
 **Day 01: May 25 , Friday**
@@ -67,20 +98,6 @@ To be added
 - [Live project](http://shovanch.com/forkify/)
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
 ## 01. Setup webpack
 
 **Day 01: May 9 , Wednesday**

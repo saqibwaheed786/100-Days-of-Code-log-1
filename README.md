@@ -19,12 +19,12 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 * Become a MERN stack developer and start freelancing
 
 **Day 1 - Day 30 (***FOCUS -> ES6 and React***)**
-* [x] **Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)**
-* [ ] Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
-* [ ] Build 3 React Projects
-* [ ] Build 2 ES6 projects
-* [ ] Build the Chingu project
-* [ ] Solve  the FreeCodeCamp JS algorithmic challenges
+* ✅ **Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)**
+*  🏃‍ Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
+*  Build 3 React Projects
+*  Build 2 ES6 projects
+*  Build the Chingu project
+*  Solve  the FreeCodeCamp JS algorithmic challenges
 <!-- * [ ] Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series -->
 
 # Log
@@ -43,8 +43,50 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 **Link(s) to work :**
 
 **Tomorrow's Goals**
+
 ---
 -->
+## 03. React forms and Arrays
+
+**Day 03: May 31, Thursday**
+
+**Today's Progress :**
+Learned how to handle events in React, use arrays inside JSX and render them.
+
+**Thoughts :**
+React is going all well. The previous learnings of JS is helping here. That's why fundamentals are always important, it makes learning things easier and faster down the road. Exams are coming too, tomorrow focus will be more on Data Structures and C++.
+
+**Thing(s) learned :**
+- How to handle events in React
+- How to render array elements from JSX expression dynamically,
+
+**Link(s) to work :**
+- [React course code](https://github.com/shovanch/react-course)
+---
+
+## 02. Setting up React and basics
+
+**Day 02: May 30 , Wednesday**
+
+**Today's Progress :**
+Started Andrew Mead's React course, setup babel, live-server for JSX compilation. Pretty excited for the journey.
+
+**Thoughts :**
+Going to learn the fundamentals of React well enough before moving onto things Redux. Learn the fundamentals, apply them in projects, learn some more, apply them. So on and so forth. Going to summarise each weeks learning in the blog. That's a good way to learn.
+
+**Thing(s) learned :**
+- How to setup babel to compile React code
+- JSX expressions, calling functions inside
+- Conditional JSX rendering with logical opertors
+- Quirks of ES6 arrow functions.
+- Events and attributes
+- Manual data binding and re-rendering
+
+**Link(s) to work :**
+- [React course code](https://github.com/shovanch/react-course)
+
+---
+
 ## 01. Completed the ES6 course
 
 **Day 01: May 29 , Tuesday**

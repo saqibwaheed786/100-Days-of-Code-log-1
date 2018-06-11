@@ -46,6 +46,30 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 ---
 -->
+
+## 04 - 14. React and more React
+
+**Day 04 - 14: June 1 - June 11**
+
+**Today's Progress :** 
+Logging the progress after longtime. I have been maintaining the coding habit daily. I made some simple react components and combined them to build more complex app. Enjoying the whole process so far. Worked on the movie project. Learning how to use API, maintain complex state. All pieces are fitting in like a puzzle. Moving with full steam ahead 🔥
+
+**Thoughts :**
+I have great experience with React so far. There are not many things to learn, but figuring out which way to go to tackle a particular problem is more important. Getting comfortable with React methods now. Next step is to put all the things in practice. I got lots of awesome project ideas to implement, quite excited to build them. After that, will move on to Redux, testing and other advanced stuffs. 
+
+**Thing(s) learned :**
+- Handling API requests in React
+- React component lifecycle and methods
+- Handling state and props
+- Input range slider
+- React router and methods
+
+**Link(s) to work :**
+-[Crypto Project](http://re-cryptosh.now.sh)
+-[Movie Project](https://react-tmdb.now.sh/)
+
+---
+
 ## 03. React forms and Arrays
 
 **Day 03: May 31, Thursday**

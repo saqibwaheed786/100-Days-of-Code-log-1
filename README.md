@@ -20,12 +20,14 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 **Day 1 - Day 30 (***FOCUS -> ES6 and React***)**
 * ✅ **Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)**
-*  🏃‍ Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)
-*  Build 3 React Projects
+* ✅ Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)(React fundamentals part)
+* 🏃‍ ✅(1/3) Build 3 React Projects
+* 🏃‍ Build the Chingu project
+* Solve  the FreeCodeCamp JS algorithmic challenges
+
+<!-- * [ ] Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series
 *  Build 2 ES6 projects
-*  Build the Chingu project
-*  Solve  the FreeCodeCamp JS algorithmic challenges
-<!-- * [ ] Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series -->
+-->
 
 # Log
 
@@ -47,15 +49,30 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 ---
 -->
 
+## 15 - 25. The Cryptotracker project
+
+**Day 15 - 25 : June 12 - June 22**
+
+**Progress :**
+Another summary update. I have been working on the cryptocurrency tracker project. Nearly done with it, just need some work with the styles to make it responsive.
+
+**Thoughts :**
+Enjoyed the whole process of building the crypto-tracker project. Right from the mockups to the coding, getting to see your idea becoming real is both exciting and humbling. Maybe that's one of the many perks which comes with being a programmer. I have learn more about react and how to cope with those situation when your code, just doesn't seem to work. Next step is to, make this project into a game where users can buy, sell, track their crypocurrency, ofcourse using virtual money 😅. Quite excited for this whole thing. <br>
+After this, need to work on my portfolio. I am planning to use gatsby for that. It seems quite fast, also easy to integrate blog into it. Let the journey continue.
+
+**Link(s) to work :**
+- [Re-crypto - the cryptocurrency tracker](https://re-crypto.netlify.com/)
+- [Github repo](https://github.com/shovanch/re-crypto)
+
 ## 04 - 14. React and more React
 
 **Day 04 - 14: June 1 - June 11**
 
-**Today's Progress :** 
+**Progress :**
 Logging the progress after longtime. I have been maintaining the coding habit daily. I made some simple react components and combined them to build more complex app. Enjoying the whole process so far. Worked on the movie project. Learning how to use API, maintain complex state. All pieces are fitting in like a puzzle. Moving with full steam ahead 🔥
 
 **Thoughts :**
-I have great experience with React so far. There are not many things to learn, but figuring out which way to go to tackle a particular problem is more important. Getting comfortable with React methods now. Next step is to put all the things in practice. I got lots of awesome project ideas to implement, quite excited to build them. After that, will move on to Redux, testing and other advanced stuffs. 
+I have great experience with React so far. There are not many things to learn, but figuring out which way to go to tackle a particular problem is more important. Getting comfortable with React methods now. Next step is to put all the things in practice. I got lots of awesome project ideas to implement, quite excited to build them. After that, will move on to Redux, testing and other advanced stuffs.
 
 **Thing(s) learned :**
 - Handling API requests in React

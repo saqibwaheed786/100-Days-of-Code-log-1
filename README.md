@@ -9,7 +9,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 | Start Date   | End Date     |
 | ------------ | ------------ |
-| May 29, 2018 | ------------ |
+| Jul 14, 2018 | ------------ |
 
 ## Goals
 
@@ -18,23 +18,18 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 * Write a medium article every week about lessons learned
 * Become a MERN stack developer and start freelancing
 
-**Day 1 - Day 30 (***FOCUS -> ES6 and React***)**
-* ✅ **Complete the [ES6 course](https://www.udemy.com/the-complete-javascript-course/)**
-* ✅ Complete [The React Developer Course](https://www.udemy.com/react-2nd-edition/)(React fundamentals part)
-* 🏃‍ ✅(1/3) Build 3 React Projects
+**Day 1 - Day 30 (***FOCUS -> React***)**
+* 🏃‍ (0/2) Build 2 React Projects
 * 🏃‍ Build the Chingu project
+* Redesign the portfolio using Gatsby
 * Solve  the FreeCodeCamp JS algorithmic challenges
-
-<!-- * [ ] Read the [You don't know JS](https://github.com/getify/You-Dont-Know-JS) book series
-*  Build 2 ES6 projects
--->
 
 # Log
 
 <!--
 ## XX.
 
-**Day XX: May , day**
+**Day XX: July , day**
 
 **Today's Progress :**
 
@@ -48,6 +43,34 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 
 ---
 -->
+## 01.
+
+**Day 01: July 14 , Saturday**
+
+**Today's Progress :**
+
+**Thoughts :**
+
+**Thing(s) learned :**
+
+**Link(s) to work :**
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 
 ## 15 - 25. The Cryptotracker project
 
@@ -151,21 +174,6 @@ Base Goal = Code min. 1 hour.<br>
 Will start the React Course plus reading and coding some Data Structures for exams.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
 ## 01. Working with ES6
 
 **Day 01: May 25 , Friday**

@@ -7,9 +7,9 @@
 
 Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/) or [the official repo](https://github.com/Kallaway/100-days-of-code).
 
-| Start Date   | End Date     |
-| ------------ | ------------ |
-| Jul 24, 2018 | ------------ |
+| Start Date      | End Date     |
+| --------------- | ------------ |
+| August 05, 2018 | ------------ |
 
 ## Goals
 
@@ -18,8 +18,8 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 * Write a medium article every week about lessons learned
 * Become a MERN stack developer and start freelancing
 
-**Day 1 - Day 30 (***FOCUS -> React***)**
-* 🏃‍ (0/2) Build 2 React Projects
+**Day 1 - Day 14 (***FOCUS -> React***)**
+* 🏃‍ Complete the re-Crypto project
 * 🏃‍ Build the Chingu project
 * Redesign the portfolio using Gatsby
 * Solve  the FreeCodeCamp JS algorithmic challenges
@@ -29,7 +29,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 <!--
 ## XX.
 
-**Day XX: July , day**
+**Day XX: August , day**
 
 **Today's Progress :**
 
@@ -45,7 +45,7 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 -->
 ## 01.
 
-**Day 01: July 24 , Saturday**
+**Day 01: 06 August, Monday**
 
 **Today's Progress :**
 
@@ -54,6 +54,16 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 **Thing(s) learned :**
 
 **Link(s) to work :**
+
+**Tomorrow's Goals**
+
+---
+
+## 00. Setup the workspace
+
+**Day 00: 05 August, Sunday**
+
+**Today's Progress :** Coming back to coding after quite a long break. Today, spend time setting up the workspace, mainly the editor settings and dotfiles for bash. Everything works nice and smooth now. Hoping to get to employable level by the end of this round. Let's get started.‍  🔥👍
 
 ---
 
